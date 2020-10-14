@@ -1,2 +1,2 @@
 # icandid.github.io
-Portfolio website
+Personal porfolio
